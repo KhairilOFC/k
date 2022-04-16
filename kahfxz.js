@@ -2670,8 +2670,8 @@ break
 ╭─ *Bot Info* ─╮       
 
 Libray : *Baileys Multi Device*
-Name Bot : *KahfxxBot*
-Creator : *KahfzXzy*
+Name Bot : *BebanBot*
+Creator : *Khairil*
 Author : *DikaArdnt.*
 User Total : *${Object.keys(global.db.data.users).length}*
  
@@ -3145,7 +3145,7 @@ let sectionnya= [{
 						]
 hisoka.sendList(m.chat, `Halo ${pushname}`, `───❑ INFO BOT
 
-LIBRAY:  *BAILEYS MD*`, "kahfzXzy", "List Bor ", sectionnya, { quoted: m})
+LIBRAY:  *BAILEYS MD*`, "Khairil", "List Bor ", sectionnya, { quoted: m})
 break
 case 'grupmenu': {
 	            anu = `
